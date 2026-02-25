@@ -15,8 +15,9 @@
 
 int main(void) {
  
-	srand(time(NULL)); // Seed the random generator
-	printf("Generate two numbers between 1-6 with total cannot be 7\n");
-    	
+	//srand(time(NULL)); // Seed the random generator
+	//printf("Generate two numbers between 1-6 with total cannot be 7\n");
+    
+	double raised = pow(5,3);
 	return 0;
 }
